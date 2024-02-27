@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValorAB", "ValorAB\ValorAB.csproj", "{96B0A114-92DC-4B8C-B2AD-8D194753F92F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96B0A114-92DC-4B8C-B2AD-8D194753F92F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96B0A114-92DC-4B8C-B2AD-8D194753F92F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96B0A114-92DC-4B8C-B2AD-8D194753F92F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96B0A114-92DC-4B8C-B2AD-8D194753F92F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E7FB9206-9B41-4C1A-B7BA-CE02AA289C7C}
+	EndGlobalSection
+EndGlobal
